@@ -25,10 +25,10 @@ Observação 2:
 	Para o código funcionar, o caminho da planílha deve estar especificado na linha 7
 	
 Observação 3:
-	Na função enviar_email(), é necessário algumas configurações: \n
-	    linha 35: adicionar o e-mail remetente \n
-	    linha 36: adicionar o e-mail destinatário \n
-	    linha 37: adicionar senha gerada para apps \n
+	Na função enviar_email(), é necessário algumas configurações: 
+	    linha 35: adicionar o e-mail remetente | 
+	    linha 36: adicionar o e-mail destinatário |
+	    linha 37: adicionar senha gerada para apps |
 	    
 	COMO GERAR SENHA PARA APPS (para linha 37):
 	    Nesse exemplo, foi utilizado o Gmail (outros correios eletrônicos possuem outra política de segurança).
