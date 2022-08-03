@@ -12,8 +12,8 @@ Nesse código, o seguinte desafio foi resolvido
  
  Toda semana é necessário enviar para a diretoria um ranking atualizado com 3 informações: 
  
- 1- Faturamento de cada loja
- 2- Quantidade de produtos vendidos em cada loja
+ 1- Faturamento de cada loja | 
+ 2- Quantidade de produtos vendidos em cada loja | 
  3- Ticket médio dos produtos da loja
  
  Além disso, é preciso enviar essas mesmas informações de cada loja individualmente (ou seja, escrever um e-mail com as informações de cada uma das lojas)
@@ -25,12 +25,12 @@ Observação 2:
 	Para o código funcionar, o caminho da planílha deve estar especificado na linha 7
 	
 Observação 3:
-	Na função enviar_email(), é necessário algumas configurações:
-	    linha 35: adicionar o e-mail remetente
-	    linha 36: adicionar o e-mail destinatário
-	    linha 37: adicionar senha gerada para apps
+	Na função enviar_email(), é necessário algumas configurações: \n
+	    linha 35: adicionar o e-mail remetente \n
+	    linha 36: adicionar o e-mail destinatário \n
+	    linha 37: adicionar senha gerada para apps \n
 	    
-	COMO GERAR SENHA PARA APPS:
+	COMO GERAR SENHA PARA APPS (para linha 37):
 	    Nesse exemplo, foi utilizado o Gmail (outros correios eletrônicos possuem outra política de segurança).
 	    1- Entre no seu gmail
 	    2- Clique na sua foto no canto superior direito, e em seguida clique em "Gerenciar sua Conta do Google"
