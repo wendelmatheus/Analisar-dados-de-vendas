@@ -6,7 +6,7 @@ Nesse código, o seguinte desafio foi resolvido
 
  Desafio:
  
- Você faz parte da equipe de Analytics de uma grande marda de vestuário com mais de 25 lojas espalhadas em Shoppings de todo o Brasil.
+ Você faz parte da equipe de Analytics de uma grande marca de vestuário com mais de 25 lojas espalhadas em Shoppings de todo o Brasil.
  
  Existem 25 lojas de uma marca de vestuário espalhadas em Shoppings de todo o Brasil.
  
