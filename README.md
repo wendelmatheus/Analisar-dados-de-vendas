@@ -30,15 +30,15 @@ Observação 3:
 	    linha 36: adicionar o e-mail destinatário |
 	    linha 37: adicionar senha gerada para apps |
 	    
-	COMO GERAR SENHA PARA APPS (para linha 37):
-	    Nesse exemplo, foi utilizado o Gmail (outros correios eletrônicos possuem outra política de segurança).
-	    1- Entre no seu gmail
-	    2- Clique na sua foto no canto superior direito, e em seguida clique em "Gerenciar sua Conta do Google"
-	    3- Na nova aba, clique em segurança
-	    OBS.: A partir daqui, é necessário estar ativado a verificação em duas etapas
-	    4- Em "Como fazer login no Google", clique em Senhas de app e digite sua senha
-	    5- Em "Selecionar app", escolha "E-mail", e em "Selecionar dispositivo", clique em outro e digite o nome que desejar
-	    6- Finalmente, clique em gerar. Copie e cole aquela senha que aparece, e coloque na linha 37! =D
-	    OBS.: Se desejar, pode apagar essa senha gerada clicando no item da lixeira que aparece na frente
+COMO GERAR SENHA PARA APPS (para linha 37):
+    Nesse exemplo, foi utilizado o Gmail (outros correios eletrônicos possuem outra política de segurança).
+    1- Entre no seu gmail
+    2- Clique na sua foto no canto superior direito, e em seguida clique em "Gerenciar sua Conta do Google"
+    3- Na nova aba, clique em segurança
+    OBS.: A partir daqui, é necessário estar ativado a verificação em duas etapas
+    4- Em "Como fazer login no Google", clique em Senhas de app e digite sua senha
+    5- Em "Selecionar app", escolha "E-mail", e em "Selecionar dispositivo", clique em outro e digite o nome que desejar
+    6- Finalmente, clique em gerar. Copie e cole aquela senha que aparece, e coloque na linha 37! =D
+    OBS.: Se desejar, pode apagar essa senha gerada clicando no item da lixeira que aparece na frente
 
 
